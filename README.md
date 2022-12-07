@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lansingthomas
-- 👀 I’m interested in user experience research and graphic design
+- 👀 I’m interested in Ux research, graphic design, & interaction design. 
 - 🌱 I’m currently learning Nyxt power browser
 - 💞️ I’m looking to collaborate on product development in the solar energy space :)
 - 📫 Reach me on Linkdin with a connect request.
