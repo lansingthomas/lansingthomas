@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lansingthomas
 - 👀 I’m interested in Ux as well as product, service, & interaction design. 
-- 🌱 I’m currently learning Nyxt, knowledge extraction enginge.
+- 🌱 I’m currently learning Nyxt, the personalized research engine.
 - 💞️ I like visual and sound art :)
 
 <!---
